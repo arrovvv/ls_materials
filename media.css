@@ -1980,12 +1980,12 @@
   }
 
   .usability-card.last {
-    height: 216px;
+    height: 204px;
   }
 
   .usability-card__arrow.last {
     bottom: 60px;
-  }
+   }
 
   .about {
     margin-bottom: 60px;
