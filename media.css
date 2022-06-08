@@ -72,7 +72,7 @@
   }
 
   .nav__list {
-    margin-right: 70px;
+    margin-right: 50px;
   }
 
   .nav__list-item {
@@ -217,7 +217,7 @@
   }
 
   .nav__list {
-    margin-right: 60px;
+    margin-right: 49px;
   }
 
   .nav__list-item {
@@ -391,7 +391,7 @@
   }
 
   .nav__list {
-    margin-right: 60px;
+    margin-right: 44px;
     margin-top: 10px;
   }
 
@@ -952,11 +952,11 @@
 
   .header-wrapper-menu {
     height: 60px;
-    width: 124px;
+    width: 130px;
   }
 
   .header-wrapper-menu__calc {
-    width: 124px;
+    width: 130px;
     height: 35px;
     font-size: 13px;
   }
