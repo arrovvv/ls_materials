@@ -2863,8 +2863,8 @@
   }
 
   .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 50px;
-  }
+    bottom: 30px;
+}
 
   .usability-card__bg {
     width: 171px;
@@ -2877,8 +2877,8 @@
   }
 
   .usability-card:nth-child(2) {
-    height: 194px;
-  }
+    height: 177px;
+}
 
   .usability-card:nth-child(3) {
     height: 194px;
@@ -3137,9 +3137,9 @@
     width: 179px;
   }
 
-  .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 50px;
-  }
+ .usability-card:nth-child(2) .usability-card__arrow {
+    bottom: 35px;
+}
 
   .usability-card__bg {
     width: 160px;
@@ -3152,7 +3152,7 @@
   }
 
   .usability-card:nth-child(2) {
-    height: 182px;
+    height: 168px;
   }
 
   .usability-card:nth-child(3) {
@@ -3427,6 +3427,10 @@
   .usability-card:nth-child(2) {
     height: 160px;
   }
+  
+  .usability-card:nth-child(2) .usability-card__arrow {
+    bottom: 50px;
+}
 
   .usability-card:nth-child(3) {
     height: 160px;
