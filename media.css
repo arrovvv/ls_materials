@@ -2679,7 +2679,7 @@
   .consult-form-bg {
     width: 418px;
     height: 355px;
-    background-position-x: 20%;
+    background-position-x: right;
   }
 
   .consult-form {
