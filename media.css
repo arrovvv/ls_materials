@@ -2076,48 +2076,18 @@
     width: 499px;
   }
 
-  .header-icons.after {
-    margin: 25px 39px 32px 39px;
-    width: 120px;
-    height: 35px;
-  }
-
-  .header-burger img {
-    display: inline-block;
-    width: 45px;
-    height: 35px;
-  }
-  
-  .header-burger {
-    display: inline-block;
-    width: 45px;
-    height: 35px;
-  }
-
-  .header-search-adaptive img {
-    display: inline-block;
-    width: 45px;
-    height: 35px;
-  }
-  
-  .header-search-adaptive {
-    display: inline-block;
-    width: 45px;
-    height: 35px;
-  }
-
   .header-phone {
     font-size: 18px;
   }
 
   .header-wrapper-menu {
     height: 60px;
-    width: 125px;
+    width: 127px;
     margin: 20px 0;
   }
 
   .header-wrapper-menu__calc {
-    width: 125px;
+    width: 127px;
     height: 34px;
     font-size: 12px;
   }
