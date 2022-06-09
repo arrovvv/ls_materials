@@ -2536,7 +2536,7 @@
   .header-adaptive--480 {
     display: flex;
     flex-direction: column;
-    width: 203px;
+    width: 198px;
     height: 87px;
     margin-top: 4px;
   }
@@ -2544,10 +2544,10 @@
   .header-icons--480after {
     display: flex;
     justify-content: space-between;
-    width: 203px;
+    width: 197px;
     height: 45px;
     margin-top: 10px;
-  }
+}
 
   .header-burger--480 {
     display: inline-block;
@@ -2807,8 +2807,9 @@
   }
 
   .header-adaptive--480 {
-    width: 167px;
-    height: 80px;
+    width: 170px;
+    height: 74px;
+    margin-top: 3px;
   }
 
   .header-icons--480after {
@@ -3380,7 +3381,7 @@
 
   .header-adaptive--480 {
     width: 141px;
-    height: 58px;
+    height: 55px;
     justify-content: space-between;
   }
 
@@ -3670,12 +3671,13 @@
 
   .header-adaptive--480 {
     width: 122px;
-    height: 51px;
+    height: 50px;
   }
 
   .header-icons--480after {
     width: 122px;
     height: 27px;
+    margin-top: 0px;
   }
 
   .header-wrapper-menu--480 {
