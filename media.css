@@ -3029,6 +3029,10 @@
   .about-content {
     width: 89vw;
   }
+  
+   .consult-content__button {
+    margin-top: 20px;
+}
 
 }
 
@@ -3241,12 +3245,12 @@
   }
 
   .consult-content__button {
-    margin-top: 15px;
+    margin-top: 12px;
   }
 
   .consult-form-white__text {
-    margin-top: 10px;
-    margin-bottom: 9px;
+    margin-top: 8px;
+    margin-bottom: 8px;
   }
 
   .consult-name-block {
