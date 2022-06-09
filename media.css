@@ -2681,11 +2681,11 @@
   }
 
   .usability-card__arrow {
-    bottom: 30px;
+    bottom: 33px;
   }
 
   .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 30px;
+    bottom: 33px;
   }
 
   .usability-card__bg {
