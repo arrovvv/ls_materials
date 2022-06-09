@@ -1582,8 +1582,8 @@
   .header-wrapper__logo {
     width: 175px;
     height: 37px;
-    margin: 29px 0 37px;
-  }
+    margin: 26px 0 28px;
+}
 
   .header-adaptive-768 {
     display: flex;
@@ -1595,7 +1595,7 @@
     justify-content: space-between;
     width: 127px;
     height: 45px;
-    margin: 25px 97px 32px 80px;
+    margin: 29px 97px 28px 80px;
   }
 
   .header-burger {
@@ -1921,8 +1921,14 @@
   }
 
   .header-icons.after {
-    margin: 25px 65px 32px 52px;
+    margin: 28px 65px 29px 52px;
 }
+  
+  .header-wrapper__logo {
+    width: 175px;
+    height: 37px;
+    margin: 28px 0 29px;
+  }
 
   .header-wrapper-menu--768 {
     display: flex;
