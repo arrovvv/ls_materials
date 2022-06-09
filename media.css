@@ -2150,14 +2150,14 @@
     justify-content: space-between;
     height: 60px;
     width: 127px;
-    margin: 19px 0 15px;
-  }
+    margin: 19px 0 19px;
+}
   
  .header-icons.after {
-    margin: 28px 44px 28px 37px;
+    margin: 33px 44px 23px 37px;
     width: 115px;
     height: 40px;
-  }
+}
   
   .header-burger {
     display: inline-block;
