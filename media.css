@@ -2546,6 +2546,8 @@
     top: 15px;
     height: 255px;
   }
+  
+}
 
 @media (max-width: 480px) {
 
@@ -3565,7 +3567,6 @@
 
   .usability-card__title.gibrid, .usability-card__title.sun, .usability-card__title .usability-card__title.last {
     width: 124px;
-    margin-top: 5px;
   }
 
   .usability-card__bg {
@@ -3574,33 +3575,20 @@
   }
 
   .usability-card {
-    height: 154px;
+    height: 160px;
     width: 139px;
-  }
-  
-  .usability-card__title {
-    width: 135px;
-    margin-top: 5px;
   }
 
   .usability-card:nth-child(2) {
-    height: 154px;
+    height: 160px;
   }
   
   .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 41px;
-  }
-  
-  .usability-card:nth-child(3) .usability-card__arrow {
-    bottom: 40px;
-  }
+    bottom: 50px;
+}
 
   .usability-card:nth-child(3) {
-    height: 154px;
-  }
-  
-  .usability-card__arrow.last {
-    bottom: 58px;
+    height: 160px;
   }
 
   .usability-card__bg.last {
@@ -3609,19 +3597,12 @@
   }
 
   .usability-card.last {
-    height: 171px;
-    width: 140px;
+    height: 178px;
   }
   
   .usability-card__title.last {
     width: 138px;
     height: 50px;
-    margin-top: 0px;
-  }
-  
-  .usability-card__arrow {
-    bottom: 41px;
-    left: 5px;
   }
 
   .section-card-wrapper.usability {
@@ -3877,45 +3858,45 @@
     height: 100px;
   }
 
- .usability-card {
-    height: 133px;
+  .usability-card {
+    height: 142px;
     width: 117px;
-}
+  }
 
- .usability-card:nth-child(2) {
-    height: 133px;
+  .usability-card:nth-child(2) {
+    height: 142px;
   }
 
   .usability-card:nth-child(3) {
-    height: 133px;
+    height: 139px;
   }
 
   .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 37px;
+    bottom: 45px;
     height: 27px;
     width: 27px;
     left: 5px;
-}
+  }
 
   .usability-card:nth-child(3) .usability-card__arrow {
-    bottom: 37px;
+    bottom: 45px;
     height: 27px;
     width: 27px;
     left: 5px;
-}
+  }
 
   .usability-card__bg.last {
     width: 117px;
     height: 100px;
   }
 
- .usability-card.last {
-    height: 154px;
+  .usability-card.last {
+    height: 161px;
     width: 117px;
-}
+  }
 
- .usability-card__arrow {
-    bottom: 37px;
+  .usability-card__arrow {
+    bottom: 45px;
     height: 27px;
     width: 27px;
     left: 5px;
@@ -4023,5 +4004,4 @@
     width: 250px;
     margin: 0 auto;
   }
-
 }
