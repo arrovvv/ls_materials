@@ -574,6 +574,10 @@
     height: 41px;
     bottom: 80px;
   }
+  
+  .usability-card__arrow.last {
+    bottom: 77px;
+  }
 
   .usability-arrow {
     width: 35px;
@@ -1146,6 +1150,10 @@
     width: 36px;
     height: 36px;
     bottom: 55px;
+  }
+  
+  .usability-card__arrow.last {
+    bottom: 81px;
   }
 
   .about {
@@ -2502,6 +2510,10 @@
   .usability-arrow {
     width: 25px;
     height: 25px;
+  }
+  
+  .usability-card__arrow.last {
+    bottom: 61px;
   }
 
   .consult-form-bg {
