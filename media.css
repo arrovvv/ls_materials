@@ -1880,8 +1880,8 @@
   }
 
   .header-icons.after {
-    margin: 33px 55px 0 60px;
-  }
+    margin: 25px 65px 32px 52px;
+}
 
   .header-wrapper-menu {
     height: 65px;
@@ -2394,13 +2394,29 @@
 
   .consult-form-white__text {
     width: 305px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+  }
+  
+  .consult-name-block {
+    margin-bottom: 5px;
+  }
+  
+  .consult-button img {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .consult-content__button {
+    margin-top: 15px;
   }
 
   .consult-form-white {
     width: 350px;
     right: 32px;
+    top: 15px;
+    height: 250px;
   }
-}
 
 @media (max-width: 480px) {
 
