@@ -3888,10 +3888,6 @@
     left: 5px;
   }
 
-  .usability-card__arrow.last {
-    bottom: 62px;
-  }
-
   .section-card-wrapper.usability {
     display: grid;
     grid-template-columns: 117px 117px;
