@@ -3245,11 +3245,11 @@
   }
 
   .usability-card__title.gibrid, .usability-card__title.sun, .usability-card__title .usability-card__title.last {
-    width: 179px;
+    width: 159px;
   }
 
  .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 35px;
+    bottom: 50px;
 }
 
   .usability-card__bg {
@@ -3263,7 +3263,7 @@
   }
 
   .usability-card:nth-child(2) {
-    height: 168px;
+    height: 182px;
   }
 
   .usability-card:nth-child(3) {
