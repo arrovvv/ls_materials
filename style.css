@@ -488,10 +488,10 @@ header {
 }
 
 .usability-card.last {
-  width: 317px;
-  height: 345px;
-  position: relative;
-}
+    width: 317px;
+    height: 343px;
+    position: relative;
+  }
 
 .usability-card__bg.last {
   position: absolute;
