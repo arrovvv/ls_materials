@@ -1546,13 +1546,15 @@
 
   .header-adaptive-768 {
     display: flex;
+    height: 103px;
   }
 
   .header-icons.after {
     display: flex;
     justify-content: space-between;
     width: 127px;
-    margin: 33px 97px 0 80px;
+    height: 45px;
+    margin: 25px 97px 32px 80px;
   }
 
   .header-burger {
@@ -1583,9 +1585,9 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 70px;
+    height: 69px;
     width: 161px;
-    margin: 20px 0;
+    margin: 15px 0 20px;
   }
 
   .header-wrapper-menu__calc {
