@@ -2498,6 +2498,11 @@
   .usability-card.last {
     height: 184px;
   }
+  
+  .usability-arrow {
+    width: 25px;
+    height: 25px;
+  }
 
   .consult-form-bg {
     width: 457px;
