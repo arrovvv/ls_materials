@@ -103,12 +103,8 @@
     height: 300px;
   }
 
-  .section-card-wrapper-card-content__catalog__name.last.after {
-    display: unset;
-  }
-
   .section-card-wrapper-card-content__catalog__name.last {
-    display: none;
+        width: 241px;
   }
 
   .section-card-wrapper-card-content__title {
