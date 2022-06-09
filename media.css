@@ -2087,7 +2087,7 @@
 
   .consult-form-white {
     width: 377px;
-    padding: 17px 15px 21px 42px;
+    padding: 17px 15px 21px 37px;
     right: 40px;
     top: 55px;
     height: 306px;
@@ -3872,13 +3872,13 @@
     padding: 14px 14px 18px 19px;
     right: 25px;
     top: 55px;
-    height: 314px;
+    height: 318px;
     margin: 0 auto;
   }
 
   .consult-form-white__text {
-    margin-top: 10px;
-    margin-bottom: 9px;
+    margin-top: 5px;
+    margin-bottom: 2px;
     width: 238px;
   }
 
