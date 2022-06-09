@@ -948,11 +948,11 @@
 
   .header-wrapper-menu {
     height: 60px;
-    width: 130px;
+    width: 127px;
   }
 
   .header-wrapper-menu__calc {
-    width: 130px;
+    width: 127px;
     height: 35px;
     font-size: 13px;
   }
@@ -2022,7 +2022,7 @@
 
   .consult-form-white {
     width: 377px;
-    padding: 17px 20px 21px 42px;
+    padding: 17px 15px 21px 42px;
     right: 40px;
     top: 55px;
     height: 306px;
@@ -2279,8 +2279,8 @@
   }
 
   .consult-form-white__text {
-    margin-top: 12px;
-    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 8px;
     width: 310px;
   }
 
@@ -2424,8 +2424,8 @@
 
   .consult-form-white__text {
     width: 305px;
-    margin-top: 8px;
-    margin-bottom: 6px;
+    margin-top: 6px;
+    margin-bottom: 4px;
   }
   
   .consult-name-block {
@@ -2445,7 +2445,7 @@
     width: 350px;
     right: 32px;
     top: 15px;
-    height: 250px;
+    height: 255px;
   }
 
 @media (max-width: 480px) {
@@ -2706,7 +2706,11 @@
     padding: 18px 18px 18px 48px;
     right: 17px;
     top: 80px;
-    height: 275px;
+    height: 278px;
+  }
+  
+  .consult-content__button {
+    margin-top: 20px;
   }
 
   .consult-form-bg {
