@@ -440,6 +440,9 @@ header {
   margin-left: 7px;
 }
 
+section-card-wrapper-card-content__catalog__name.last.after {
+  display: none;
+}
 
 /* section usability */
 
