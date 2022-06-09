@@ -289,6 +289,27 @@
     margin-bottom: 30px;
     margin-top: 31px;
   }
+  
+  section-card-wrapper-card-content__catalog last img{
+    height: 27px;
+    width: 27px;
+  }
+  
+  .section-card-wrapper-card-content__catalog__name.last {
+    width: 241px;
+    margin-left: 7px;
+  }
+  
+  .section-card-wrapper-card.last {
+    position: relative;
+  }
+  
+  section-card-wrapper-card-content__catalog last {
+    position: absolute;
+    bottom: 15px;
+    left: 8px;
+  }
+  
 
   .usability-card__bg {
     width: 273px;
