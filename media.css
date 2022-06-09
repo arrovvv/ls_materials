@@ -3841,7 +3841,7 @@
   }
 
   .usability-card:nth-child(3) {
-    height: 142px;
+    height: 139px;
   }
 
   .usability-card:nth-child(2) .usability-card__arrow {
@@ -3864,7 +3864,8 @@
   }
 
   .usability-card.last {
-    height: 159px;
+    height: 161px;
+    width: 117px;
   }
 
   .usability-card__arrow {
@@ -3875,7 +3876,7 @@
   }
 
   .usability-card__arrow.last {
-    bottom: 61px;
+    bottom: 67px;
   }
 
   .section-card-wrapper.usability {
