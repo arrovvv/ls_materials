@@ -2546,7 +2546,6 @@
     top: 15px;
     height: 255px;
   }
-  
 }
 
 @media (max-width: 480px) {
@@ -3567,6 +3566,7 @@
 
   .usability-card__title.gibrid, .usability-card__title.sun, .usability-card__title .usability-card__title.last {
     width: 124px;
+    margin-top: 5px;
   }
 
   .usability-card__bg {
@@ -3575,20 +3575,33 @@
   }
 
   .usability-card {
-    height: 160px;
+    height: 154px;
     width: 139px;
+  }
+  
+  .usability-card__title {
+    width: 135px;
+    margin-top: 5px;
   }
 
   .usability-card:nth-child(2) {
-    height: 160px;
+    height: 154px;
   }
   
   .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 50px;
-}
+    bottom: 41px;
+  }
+  
+  .usability-card:nth-child(3) .usability-card__arrow {
+    bottom: 40px;
+  }
 
   .usability-card:nth-child(3) {
-    height: 160px;
+    height: 154px;
+  }
+  
+  .usability-card__arrow.last {
+    bottom: 58px;
   }
 
   .usability-card__bg.last {
@@ -3597,12 +3610,19 @@
   }
 
   .usability-card.last {
-    height: 178px;
+    height: 171px;
+    width: 140px;
   }
   
   .usability-card__title.last {
     width: 138px;
     height: 50px;
+    margin-top: 0px;
+  }
+  
+  .usability-card__arrow {
+    bottom: 41px;
+    left: 5px;
   }
 
   .section-card-wrapper.usability {
@@ -3858,45 +3878,45 @@
     height: 100px;
   }
 
-  .usability-card {
-    height: 142px;
+ .usability-card {
+    height: 133px;
     width: 117px;
-  }
+}
 
-  .usability-card:nth-child(2) {
-    height: 142px;
+ .usability-card:nth-child(2) {
+    height: 133px;
   }
 
   .usability-card:nth-child(3) {
-    height: 139px;
+    height: 133px;
   }
 
   .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 45px;
+    bottom: 37px;
     height: 27px;
     width: 27px;
     left: 5px;
-  }
+}
 
   .usability-card:nth-child(3) .usability-card__arrow {
-    bottom: 45px;
+    bottom: 37px;
     height: 27px;
     width: 27px;
     left: 5px;
-  }
+}
 
   .usability-card__bg.last {
     width: 117px;
     height: 100px;
   }
 
-  .usability-card.last {
-    height: 161px;
+ .usability-card.last {
+    height: 154px;
     width: 117px;
-  }
+}
 
-  .usability-card__arrow {
-    bottom: 45px;
+ .usability-card__arrow {
+    bottom: 37px;
     height: 27px;
     width: 27px;
     left: 5px;
@@ -4004,4 +4024,5 @@
     width: 250px;
     margin: 0 auto;
   }
+
 }
