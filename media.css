@@ -305,7 +305,7 @@
   
   .section-card-wrapper-card-content__catalog.last {
     position: absolute;
-    bottom: 15px;
+    bottom: 11px;
     left: 6px;
   }
   
@@ -538,7 +538,7 @@
   
   .section-card-wrapper-card-content__catalog.last {
     position: absolute;
-    bottom: 4px;
+    bottom: 3px;
     left: 8px;
   }
 
@@ -558,7 +558,7 @@
   }
 
   .usability-card__title.sun {
-    margin-bottom: 25px;
+    margin-bottom: 23px;
   }
 
   .section-card-wrapper.usability {
@@ -566,7 +566,7 @@
   }
 
   .usability-card.last {
-    height: 277px;
+    height: 278px;
   }
 
   .usability-card__arrow {
@@ -576,7 +576,7 @@
   }
   
   .usability-card__arrow.last {
-    bottom: 77px;
+    bottom: 78px;
   }
 
   .usability-arrow {
@@ -1114,7 +1114,7 @@
   
  .section-card-wrapper-card-content__catalog.last {
     position: absolute;
-    bottom: 6px;
+    bottom: 5px;
     left: 8px;
     height: 48px;
     width: 230px;
@@ -1153,7 +1153,7 @@
   }
   
   .usability-card__arrow.last {
-    bottom: 81px;
+    bottom: 82px;
   }
 
   .about {
@@ -1461,7 +1461,7 @@
   }
 
   .usability-card__arrow.last {
-    bottom: 77px;
+    bottom: 78px;
   }
 
   .usability-card__arrow {
@@ -1788,7 +1788,7 @@
   }
 
   .usability-card__arrow.last {
-    bottom: 60px;
+    bottom: 61px;
   }
 
   .about {
@@ -2286,17 +2286,17 @@
   }
 
   .usability-card {
-    height: 186px;
+    height: 187px;
     width: 159px;
   }
 
   .usability-card:nth-child(2) {
-    height: 186px;
+    height: 187px;
 
   }
 
   .usability-card:nth-child(3) {
-    height: 186px;
+    height: 187px;
 
   }
 
@@ -2322,11 +2322,11 @@
   }
 
   .usability-card.last {
-    height: 197px;
+    height: 198px;
   }
 
   .usability-card__arrow.last {
-    bottom: 60px;
+    bottom: 61px;
   }
 
   .container.about {
@@ -3005,7 +3005,7 @@
   }
 
  .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 32px;
+    bottom: 33px;
   }
 
   .usability-card__bg {
@@ -3289,11 +3289,16 @@
 
   .usability-card__title.gibrid, .usability-card__title.sun, .usability-card__title .usability-card__title.last {
     width: 159px;
+    margin-top: 3px;
   }
 
  .usability-card:nth-child(2) .usability-card__arrow {
-    bottom: 50px;
-}
+    bottom: 40px;
+  }
+  
+  .usability-card:nth-child(3) .usability-card__arrow {
+    bottom: 40px;
+  }
 
   .usability-card__bg {
     width: 160px;
@@ -3301,22 +3306,26 @@
   }
 
   .usability-card {
-    height: 182px;
+    height: 179px;
     width: 160px;
   }
 
   .usability-card:nth-child(2) {
-    height: 182px;
+    height: 179px;
   }
 
   .usability-card:nth-child(3) {
-    height: 182px;
+    height: 179px;
   }
-
+  
+  .usability-card__title {
+    width: 155px;
+    margin-top: 3px;
+  }
 
   .usability-card__bg.last {
     width: 160px;
-    height: 137px;
+    height: 142px;
   }
 
   .usability-card.last {
@@ -3329,11 +3338,12 @@
   }
 
   .usability-card__arrow.last {
-    bottom: 68px;
+    bottom: 61px;
   }
 
   .usability-card__arrow {
-    bottom: 50px;
+    bottom: 40px;
+    left: 5px;
   }
 
   .section-card-wrapper.usability {
